@@ -12,6 +12,7 @@ func main() {
 	}
 }
 
+// Returns the number of '1' bits in the binary representation of the given integer.
 func numBits(n int) int {
 	res := 0
 	for ; n > 0; n >>= 1 {
