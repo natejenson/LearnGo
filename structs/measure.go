@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-
 	"github.com/natejenson/LearnGo/Structs/shapes"
 )
 
