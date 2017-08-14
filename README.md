@@ -9,6 +9,6 @@ A collection of various examples of the [Go Programming Language](https://golang
 4. Strings
 5. Structs & Interfaces
 6. Goroutines
-7. Channels (coming soon!)
+7. Channels
 8. Unit tests (coming soon!)
 9. REST API (coming soon!)
