@@ -25,7 +25,7 @@ Most of the examples (with the exception of the unit tests) can be run via `go r
 
 ### Structs & Interfaces
 
-* [operate.go](/structs/operate.go) demostrates polymorphism through an abstract `Vehicle` class [vcl.go](/structs/vcl.go). Try out [eat.go](/structs/eat.go) and [measure.go](/structs/measure.go) to see other examples of the structs in [/structs](/structs) in action. 
+* [operate.go](/structs/operate.go) demostrates polymorphism through an abstract `Vehicle` class [vcl.go](/structs/vcl/vcl.go). Try out [eat.go](/structs/eat.go) and [measure.go](/structs/measure.go) to see other examples of the structs in [/structs](/structs) in action. 
 
 ### Goroutines
 
