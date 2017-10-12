@@ -37,5 +37,3 @@ Most of the examples (with the exception of the unit tests) can be run via `go r
 
 ### Unit tests
 * [sum.go](/tests/sum.go) demostrates a simple unit test suite. First `cd tests`, then run `go test` to run the test file in that directory. Optionally, add the `-v` flag at the end to get a verbose pass/fail message for each test.
-
-### REST API (coming soon!)
