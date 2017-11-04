@@ -36,4 +36,4 @@ Most of the examples (with the exception of the unit tests) can be run via `go r
 * [sync.go](/channels/sync.go) uses goroutines and channels to wait for responses from two (simulated) external dependencies. See the [/channels](/channels) directory for more on how to use channels in Go. 
 
 ### Unit tests
-* [sum.go](/tests/sum.go) demostrates a simple unit test suite. First `cd tests`, then run `go test` to run the test file in that directory. Optionally, add the `-v` flag at the end to get a verbose pass/fail message for each test.
+* [sum_test.go](/tests/sum_test.go) demostrates a simple unit test suite. First `cd tests`, then run `go test` to run the test file in that directory. Optionally, add the `-v` flag at the end to get a verbose pass/fail message for each test.
